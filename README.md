@@ -20,3 +20,9 @@ Meu nome é Bruno Bilhar Karaziack. Sou estudante de Engenharia de Computação.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bruno-bk&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bk&layout=compact&theme=dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno-bk/bruno-bk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-bk/bruno-bk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-bk/bruno-bk/output/github-contribution-grid-snake.svg">
+</picture>
